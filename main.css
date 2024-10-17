@@ -229,7 +229,7 @@ h1, h2, h3 {
 .project-info h3 {
     font-size: 2.5rem;
     margin-bottom: 10px;
-    color: #ffffff;
+    color: #4169E1;
 }
 
 .project-info p {
@@ -365,4 +365,12 @@ footer {
         color: #FF4500;
 
 }
+  
+
+.josefin-sans-sm {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
   
